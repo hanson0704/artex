@@ -136,18 +136,18 @@ ARTEX
 
 The system supports several database queries including:
 
-1️⃣ List artworks that were auctioned
-2️⃣ Find the artist whose artwork sold for the highest price
-3️⃣ Show critics who reviewed more than 10 artworks
-4️⃣ Calculate average rating per gallery section
-5️⃣ Identify themes with the maximum number of artworks
-6️⃣ Retrieve visitors who purchased more than two artworks
-7️⃣ Find artworks reviewed by both critics and visitors
-8️⃣ Show artists who displayed works in multiple galleries
-9️⃣ Identify artworks not sold or not auctioned
-🔟 Find the most expensive sculpture exhibited
-1️⃣1️⃣ Show galleries with the highest number of paintings
-1️⃣2️⃣ Retrieve the top 3 highest-rated artists 
+*1️⃣ List artworks that were auctioned
+*2️⃣ Find the artist whose artwork sold for the highest price
+*3️⃣ Show critics who reviewed more than 10 artworks
+*4️⃣ Calculate average rating per gallery section
+*5️⃣ Identify themes with the maximum number of artworks
+*6️⃣ Retrieve visitors who purchased more than two artworks
+*7️⃣ Find artworks reviewed by both critics and visitors
+*8️⃣ Show artists who displayed works in multiple galleries
+*9️⃣ Identify artworks not sold or not auctioned
+*🔟 Find the most expensive sculpture exhibited
+*1️⃣1️⃣ Show galleries with the highest number of paintings
+*1️⃣2️⃣ Retrieve the top 3 highest-rated artists 
 
 ---
 
